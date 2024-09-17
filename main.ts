@@ -2,7 +2,7 @@
  *
  * Created by: Nico Sellitto
  * Created on: Sep 2024
- * This program says calculates area and perimeter!
+ * This program calculates area and perimeter!
 */
 
 basic.showString('a = 5 x 3 = ' + (5 * 3).toString() + ' cm^2')
